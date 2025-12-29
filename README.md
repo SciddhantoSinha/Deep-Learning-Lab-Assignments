@@ -1,5 +1,17 @@
 ## 🔬 Deep Learning & Neural Network Lab – Experiments
 
+This repository contains implementations of core **Deep Learning and Neural Network concepts** performed as part of the academic laboratory curriculum. The experiments cover **model building, optimization, computer vision, transfer learning, and generative models** using modern deep learning frameworks.
+
+### 🛠️ Technologies Used
+- Python
+- TensorFlow / Keras
+- PyTorch
+- NumPy, Pandas, Matplotlib
+- OpenCV
+- Google Colab & Kaggle GPU
+
+### 📊 List of Experiments
+
 1. Introduction to Keras and TensorFlow (Optional: PyTorch). Configure and use Google Colab and Kaggle GPU.
 
 2. Develop a multi-class classifier using Deep Multilayer Perceptron (MLP) with Keras/TensorFlow/PyTorch for MNIST hand recognition dataset and CIFAR-10.
@@ -24,4 +36,14 @@
 
 9. Case Study on Generative Adversarial Networks (GANs).
 
-This repository contains implementations of all experiments performed as part of the **Deep Learning & Neural Network Lab (21BTCS042)** curriculum.
+### 🎯 Learning Outcomes
+- Implement and evaluate **Deep Learning models** from scratch  
+- Apply **CNNs for image classification and recognition**  
+- Understand the impact of **optimizers and regularization techniques**  
+- Gain hands-on experience with **Transfer Learning and Autoencoders**  
+- Explore **Generative Models (GANs)** and sequential modeling  
+
+### 📁 Repository Structure
+- Each experiment is organized in a separate folder
+- Code notebooks include training, evaluation, and visualization
+- Results and observations are documented for better understanding
