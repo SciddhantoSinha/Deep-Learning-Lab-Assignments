@@ -23,3 +23,5 @@
 8. Develop an Autoencoder to encode and decode images and analyze the results.
 
 9. Case Study on Generative Adversarial Networks (GANs).
+
+This repository contains implementations of all experiments performed as part of the **Deep Learning & Neural Network Lab (21BTCS042)** curriculum.
