@@ -6,9 +6,8 @@ This repository contains implementations of core **Deep Learning and Neural Netw
 - Python
 - TensorFlow / Keras
 - PyTorch
-- NumPy, Pandas, Matplotlib
-- OpenCV
-- Google Colab & Kaggle GPU
+- Google Colab
+- Kaggle GPU
 
 ### 📊 List of Experiments
 
